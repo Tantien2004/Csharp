@@ -67,3 +67,21 @@ C:\Users\nguyen phat dat\Downloads\NguyenTantien_2122110568\NguyenTantien_212211
 C:\Users\nguyen phat dat\Downloads\NguyenTantien_2122110568\NguyenTantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.pdb
 C:\Users\nguyen phat dat\Downloads\NguyenTantien_2122110568\NguyenTantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.genruntimeconfig.cache
 C:\Users\nguyen phat dat\Downloads\NguyenTantien_2122110568\NguyenTantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\ref\QuanlySV.dll
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\bin\Debug\net8.0-windows\QuanlySV.exe
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\bin\Debug\net8.0-windows\QuanlySV.deps.json
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\bin\Debug\net8.0-windows\QuanlySV.runtimeconfig.json
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\bin\Debug\net8.0-windows\QuanlySV.dll
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\bin\Debug\net8.0-windows\QuanlySV.pdb
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form1.resources
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Quanly.resources
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.csproj.GenerateResource.cache
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.AssemblyInfoInputs.cache
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.AssemblyInfo.cs
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.csproj.CoreCompileInputs.cache
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.sourcelink.json
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.dll
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\refint\QuanlySV.dll
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.pdb
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\QuanlySV.genruntimeconfig.cache
+F:\Nguyentantien_2122110568\nguyentantien_2122110568\Quanlyview\obj\Debug\net8.0-windows\ref\QuanlySV.dll

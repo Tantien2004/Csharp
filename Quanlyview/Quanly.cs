@@ -51,7 +51,7 @@ namespace Quanlyview
             dgvEmployee.Columns[2].HeaderText = "Ngày Sinh";
             dgvEmployee.Columns[3].HeaderText = "Giới Tính";
             dgvEmployee.Columns[4].HeaderText = "Địa Chỉ";
-            dgvEmployee.Columns[5].HeaderText = "Mã Dự Án";
+            dgvEmployee.Columns[5].HeaderText = "Khoa Học";
             dgvEmployee.Columns[6].HeaderText = "Mã Phòng Ban";
             dgvEmployee.Columns[7].HeaderText = "Ảnh"; // Add header for Birth Date
             dgvEmployee.Columns[8].HeaderText = "Số Điện Thoại";
@@ -83,6 +83,7 @@ namespace Quanlyview
                     MessageBox.Show("Lỗi: ID đã tồn tại. Vui lòng nhập ID khác.");
                     return;
                 }
+                
 
                 Employee newEmp = new Employee
                 {
@@ -280,6 +281,17 @@ namespace Quanlyview
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void tbName_TextChanged(object sender, EventArgs e)
+        {
+            string newName = tbName.Text; // Get the current text from the textbox
+
+            if (lstEmp.Any(emp => emp.Name == newName))
+            {
+                MessageBox.Show("Lỗi: ID đã tồn tại. Vui lòng nhập ID khác.");
+                return;
+            }
         }
     }
 }

@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nguyen phat dat\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguyen phat dat\\Downloads\\NguyenTantien_2122110568\\NguyenTantien_2122110568\\Quanlyview\\QuanlySV.csproj",
+      "projectUniqueName": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
       "projectName": "QuanlySV",
-      "projectPath": "C:\\Users\\nguyen phat dat\\Downloads\\NguyenTantien_2122110568\\NguyenTantien_2122110568\\Quanlyview\\QuanlySV.csproj",
-      "packagesPath": "C:\\Users\\nguyen phat dat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguyen phat dat\\Downloads\\NguyenTantien_2122110568\\NguyenTantien_2122110568\\Quanlyview\\obj\\",
+      "projectPath": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nguyen phat dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -69,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

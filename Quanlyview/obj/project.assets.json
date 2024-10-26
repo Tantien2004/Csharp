@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
+      "projectUniqueName": "D:\\Nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
       "projectName": "QuanlySV",
-      "projectPath": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
+      "projectPath": "D:\\Nguyentantien_2122110568\\Quanlyview\\QuanlySV.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Nguyentantien_2122110568\\nguyentantien_2122110568\\Quanlyview\\obj\\",
+      "outputPath": "D:\\Nguyentantien_2122110568\\Quanlyview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

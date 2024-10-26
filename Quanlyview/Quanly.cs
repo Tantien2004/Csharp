@@ -83,7 +83,29 @@ namespace Quanlyview
                     MessageBox.Show("Lỗi: ID đã tồn tại. Vui lòng nhập ID khác.");
                     return;
                 }
-                
+                if (string.IsNullOrEmpty(employeeImagePath))
+                {
+                    MessageBox.Show("Lỗi: Vui lòng chọn một ảnh.");
+                    return;
+                }
+
+                // Nếu đường dẫn ảnh không rỗng, hãy hiển thị ảnh
+                try
+                {
+                    Image employeeImage = Image.FromFile(employeeImagePath);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Lỗi khi hiển thị ảnh: {ex.Message}");
+                }
+
+
+                if (string.IsNullOrWhiteSpace(tbName.Text))
+                {
+                    MessageBox.Show("Lỗi: Vui lòng nhập tên hợp lệ.");
+                    return;
+                }
+
 
                 Employee newEmp = new Employee
                 {
